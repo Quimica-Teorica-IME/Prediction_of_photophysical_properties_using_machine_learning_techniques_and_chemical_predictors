@@ -1,2 +1,3 @@
 # Prediction_of_photophysical_properties_using_machine_learning_techniques_and_chemical_predictors
  
+This project presents an efficient approach for building a molecular database using QM-symex, resulting in 172,736 SMILES with detailed information about photophysical properties. Includes code for preprocessing, transforming data, and building machine learning models to predict properties such as oscillator strength and excitation energy. Random Forest models have demonstrated high accuracy and robustness. Descriptor importance analyzes and application of SHAP provide insights into the factors determining molecular properties.
